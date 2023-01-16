@@ -1,6 +1,14 @@
-// 0b 0B -> notação para trabalhar com binário
+// Números octais
 
-const binario1 = 0b1111;
-const binario2 = 0B11110000;
+// 0 a 7
 
-console.log(binario1 + binario2);
+// const n1 = 0755;
+// const n2 = 0644;
+
+// console.log(n1 + n2);
+
+const n1 = 0o5;
+const n2 = 0o7
+const n3 = 0o10;
+
+console.log(n1 + n3);
