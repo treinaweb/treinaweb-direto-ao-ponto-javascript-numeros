@@ -1,7 +1,10 @@
 
+// FORMA INCORRETA
 
-// console.log(10 + 'treinaweb');
-// console.log(10 + 5);
+// console.log(NaN === NaN);
+// console.log(Number.NaN === NaN);
 
-console.log(10 - 'treinaweb');
-console.log(NaN, Number.NaN);
+console.log(isNaN(undefined));
+
+// é uma forma mais robusta
+console.log(Number.isNaN(undefined));
