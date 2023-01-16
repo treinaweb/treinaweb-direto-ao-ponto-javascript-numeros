@@ -1,12 +1,6 @@
-// const maiorNumero = BigInt(Number.MAX_SAFE_INTEGER);
-// console.log(maiorNumero ** 2n);
+// 0b 0B -> notação para trabalhar com binário
 
-// const maiorNumero = Number.MAX_SAFE_INTEGER;
-// console.log(maiorNumero + 1);
-// console.log(maiorNumero + 2);
-// console.log(maiorNumero + 1 === maiorNumero + 2);
+const binario1 = 0b1111;
+const binario2 = 0B11110000;
 
-const maiorValorBigInt = BigInt(Number.MAX_SAFE_INTEGER);
-console.log(maiorValorBigInt + 1n);
-console.log(maiorValorBigInt + 2n);
-console.log(maiorValorBigInt + 1n === maiorValorBigInt + 2n);
+console.log(binario1 + binario2);
