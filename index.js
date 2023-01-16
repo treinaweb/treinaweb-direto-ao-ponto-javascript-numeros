@@ -1,14 +1,17 @@
-// Números octais
+// Números hexadecimal
 
-// 0 a 7
+// 0123456789 ABCDF
+/*
+    A = 10
+    B = 11
+    C = 12
+    D = 13
+    E = 14
+    F = 15
+*/
 
-// const n1 = 0755;
-// const n2 = 0644;
-
-// console.log(n1 + n2);
-
-const n1 = 0o5;
-const n2 = 0o7
-const n3 = 0o10;
-
-console.log(n1 + n3);
+const hexaDecimal1 = 0xF;
+const hexaDecimal2 = 0XA;
+console.log(hexaDecimal1);
+console.log(hexaDecimal2);
+console.log(hexaDecimal1 + hexaDecimal2);
