@@ -1,0 +1,16 @@
+Aula | Video | Commit | Link
+------ | ------ | ------ | ------
+Aula 01 | Vídeo 02 - Números inteiros | 01:02 - Números inteiros | [Download](https://github.com/treinaweb/treinaweb-direto-ao-ponto-javascript-numeros/archive/7bfa32c5d2c9b9f0059550c845563a9f83ee13bb.zip)
+Aula 01 | Vídeo 03 - Números de ponto flutuante | 01:03 - Números de ponto flutuante | [Download](https://github.com/treinaweb/treinaweb-direto-ao-ponto-javascript-numeros/archive/7bf04c46c3fc5a10e98d2b9386980429f0c16f0c.zip)
+Aula 01 | Vídeo 04 - Doubles | 01:04 - Doubles | [Download](https://github.com/treinaweb/treinaweb-direto-ao-ponto-javascript-numeros/archive/ab33849dba21b7ded04612052fe77fdf0f1e308a.zip)
+Aula 01 | Vídeo 05 - Tipo BigInt | 01:05 - Tipo BigInt | [Download](https://github.com/treinaweb/treinaweb-direto-ao-ponto-javascript-numeros/archive/45c4471e0ee32828ea54dec045413cf38ecd9fcb.zip)
+Aula 01 | Vídeo 06 - Trabalhando com binários | 01:06 - Trabalhando com binários | [Download](https://github.com/treinaweb/treinaweb-direto-ao-ponto-javascript-numeros/archive/d1b8557d1e9f194f8e894543480e7f6b472f7b3c.zip)
+Aula 01 | Vídeo 07 - Trabalhando com Octal | 01:07 - Trabalhando com Octal | [Download](https://github.com/treinaweb/treinaweb-direto-ao-ponto-javascript-numeros/archive/96a5e99b022a4857c2d85ad6404108556985f7cc.zip)
+Aula 01 | Vídeo 08 - Trabalhando com hexadecimal | 01:08 - Trabalhando com hexadecimal | [Download](https://github.com/treinaweb/treinaweb-direto-ao-ponto-javascript-numeros/archive/2f308222bb6afe5eee2c6752ed820d51d39796b7.zip)
+Aula 01 | Vídeo 09 - Separador numérico | 01:09 - Separador numérico | [Download](https://github.com/treinaweb/treinaweb-direto-ao-ponto-javascript-numeros/archive/c8737a21e02f949d1338eeaf1590a9077db69def.zip)
+Aula 01 | Vídeo 10 - Tipo de número especial: NaN | 01:10 - Tipo de número especial: NaN | [Download](https://github.com/treinaweb/treinaweb-direto-ao-ponto-javascript-numeros/archive/5dcfa1050c088b6323993b561f8c1c558e3b5ac0.zip)
+Aula 01 | Vídeo 11 - Métodos para verificar se o número não é NaN | 01:11 - Métodos para verificar se o número não é NaN | [Download](https://github.com/treinaweb/treinaweb-direto-ao-ponto-javascript-numeros/archive/a8614e29f4b990d36b8ab84330ce55225eccd084.zip)
+Aula 01 | Vídeo 12 - Método para manipular a precisão dos números double | 01:12 - Método para manipular a precisão dos números double | [Download](https://github.com/treinaweb/treinaweb-direto-ao-ponto-javascript-numeros/archive/50091553868f2d1bebcb26e9aaecac4d91e4e14c.zip)
+Aula 01 | Vídeo 13 - Método para trabalhar com potenciação | 01:13 - Método para trabalhar com potenciação | [Download](https://github.com/treinaweb/treinaweb-direto-ao-ponto-javascript-numeros/archive/0de02cd0fe0131b3f3f1a4f49fe2b2674548afc6.zip)
+Aula 01 | Vídeo 14 - Transformando um número em uma String | 01:14 - Transformando um número em uma String | [Download](https://github.com/treinaweb/treinaweb-direto-ao-ponto-javascript-numeros/archive/cccfa76e9d568300ee2f582badf28c68d6095d19.zip)
+Aula 01 | Vídeo 15 - Formatando número e moeda | 01:15 - Formatando número e moeda | [Download](https://github.com/treinaweb/treinaweb-direto-ao-ponto-javascript-numeros/archive/4ebd37774332fb4dcdace6bcb03b994afe66d863.zip)
