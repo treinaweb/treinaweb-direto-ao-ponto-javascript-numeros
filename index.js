@@ -1,12 +1,11 @@
-// Número inteiros
-// -10 -9 -8 -7... 0 +1 +2 +3...
+// Números racionais
 
-// console.log(10 + 5);
+// Números inteiros -10 0 +1
+// Decimais exatos 1, 25 0
+// 1.424242...
+// 1.028888...
 
-// 2 ** 53
+// Números de ponto flutuante (floats)
+// 12.5 e 56.7786543
 
-// console.log(2 ** 53);
-// 9 007 199 253 740 992 --> 9 quadrilhão
-// console.log(Number.MAX_SAFE_INTEGER);
-
-console.log(0777);
+console.log(10.5 * 3);
