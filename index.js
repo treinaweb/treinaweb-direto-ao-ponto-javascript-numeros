@@ -1,9 +1,12 @@
-const precisao = 100;
+// const maiorNumero = BigInt(Number.MAX_SAFE_INTEGER);
+// console.log(maiorNumero ** 2n);
 
-const num1 = 0.1 * precisao;
-const num2 = 0.2 * precisao;
-const num3 = (num1 + num2) / precisao;
+// const maiorNumero = Number.MAX_SAFE_INTEGER;
+// console.log(maiorNumero + 1);
+// console.log(maiorNumero + 2);
+// console.log(maiorNumero + 1 === maiorNumero + 2);
 
-console.log('numero 1:', num1);
-console.log('numero 2:', num2);
-console.log('resultado:', num3);
+const maiorValorBigInt = BigInt(Number.MAX_SAFE_INTEGER);
+console.log(maiorValorBigInt + 1n);
+console.log(maiorValorBigInt + 2n);
+console.log(maiorValorBigInt + 1n === maiorValorBigInt + 2n);
