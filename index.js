@@ -1,11 +1,9 @@
-// Números racionais
+const precisao = 100;
 
-// Números inteiros -10 0 +1
-// Decimais exatos 1, 25 0
-// 1.424242...
-// 1.028888...
+const num1 = 0.1 * precisao;
+const num2 = 0.2 * precisao;
+const num3 = (num1 + num2) / precisao;
 
-// Números de ponto flutuante (floats)
-// 12.5 e 56.7786543
-
-console.log(10.5 * 3);
+console.log('numero 1:', num1);
+console.log('numero 2:', num2);
+console.log('resultado:', num3);
