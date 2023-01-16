@@ -1,4 +1,3 @@
-const resultado = Math.pow(2, 4);
-console.log(resultado);
+const n1 = (123).toString();
 
-// Objeto Math javascript
+console.log(typeof n1);
