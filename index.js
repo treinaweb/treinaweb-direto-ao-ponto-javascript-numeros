@@ -1,10 +1,11 @@
+// const resultado = +10.12346.toFixed(3);
+// 10.12
 
-// FORMA INCORRETA
+// console.log(resultado);
 
-// console.log(NaN === NaN);
-// console.log(Number.NaN === NaN);
+const valorCombustivel = 7.283;
 
-console.log(isNaN(undefined));
+const resultado = valorCombustivel * 100;
 
-// é uma forma mais robusta
-console.log(Number.isNaN(undefined));
+const valorSemana = (valorCombustivel * 100) * 52;
+console.log(valorSemana.toFixed(2));
